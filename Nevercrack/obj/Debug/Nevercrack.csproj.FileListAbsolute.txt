@@ -1,0 +1,10 @@
+C:\Users\Mazsi\Downloads\lolgtfo\Nevercrack\bin\Debug\Nevercrack.exe.config
+C:\Users\Mazsi\Downloads\lolgtfo\Nevercrack\bin\Debug\Nevercrack.exe
+C:\Users\Mazsi\Downloads\lolgtfo\Nevercrack\bin\Debug\Nevercrack.pdb
+C:\Users\Mazsi\Downloads\lolgtfo\Nevercrack\bin\Debug\Guna.UI2.dll
+C:\Users\Mazsi\Downloads\lolgtfo\Nevercrack\bin\Debug\Leaf.xNet.dll
+C:\Users\Mazsi\Downloads\lolgtfo\Nevercrack\obj\Debug\Nevercrack.csproj.AssemblyReference.cache
+C:\Users\Mazsi\Downloads\lolgtfo\Nevercrack\obj\Debug\Nevercrack.csproj.CoreCompileInputs.cache
+C:\Users\Mazsi\Downloads\lolgtfo\Nevercrack\obj\Debug\Nevercrack.csproj.CopyComplete
+C:\Users\Mazsi\Downloads\lolgtfo\Nevercrack\obj\Debug\Nevercrack.exe
+C:\Users\Mazsi\Downloads\lolgtfo\Nevercrack\obj\Debug\Nevercrack.pdb
